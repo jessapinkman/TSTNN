@@ -1,0 +1,1255 @@
+Number of learnable parameters: 1450339
+Resume model from "/data/xhj/model/v2/latest.model-1.model"
+Loading checkpoint from "/data/xhj/model/v2/latest.model-1.model"
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 2 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0066
+STOI: 0.8191
+SNR: -1.6855
+PESQ: 1.5258
+Saving checkpoint at "/data/xhj/model/v2/latest.model-2.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 3 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0073
+STOI: 0.8381
+SNR: -2.1706
+PESQ: 1.6117
+Saving checkpoint at "/data/xhj/model/v2/latest.model-3.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 4 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0072
+STOI: 0.8445
+SNR: -2.1178
+PESQ: 1.6834
+Saving checkpoint at "/data/xhj/model/v2/latest.model-4.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 5 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0060
+STOI: 0.8521
+SNR: -1.2399
+PESQ: 1.6937
+Saving checkpoint at "/data/xhj/model/v2/latest.model-5.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 6 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0049
+STOI: 0.8653
+SNR: -0.3846
+PESQ: 1.8127
+Saving checkpoint at "/data/xhj/model/v2/latest.model-6.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 7 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0046
+STOI: 0.8704
+SNR: -0.1635
+PESQ: 1.8842
+Saving checkpoint at "/data/xhj/model/v2/latest.model-7.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 8 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0043
+STOI: 0.8753
+SNR: 0.1443
+PESQ: 1.9908
+Saving checkpoint at "/data/xhj/model/v2/latest.model-8.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 9 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0028
+STOI: 0.8821
+SNR: 2.1967
+PESQ: 2.1016
+Saving checkpoint at "/data/xhj/model/v2/latest.model-9.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 10 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0013
+STOI: 0.8846
+SNR: 5.4620
+PESQ: 2.1930
+Saving checkpoint at "/data/xhj/model/v2/latest.model-10.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 11 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0008
+STOI: 0.8876
+SNR: 7.3173
+PESQ: 2.1876
+Saving checkpoint at "/data/xhj/model/v2/latest.model-11.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 12 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0008
+STOI: 0.8887
+SNR: 7.2894
+PESQ: 2.1618
+Saving checkpoint at "/data/xhj/model/v2/latest.model-12.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 13 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0008
+STOI: 0.8889
+SNR: 7.3122
+PESQ: 2.2400
+Saving checkpoint at "/data/xhj/model/v2/latest.model-13.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 14 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0008
+STOI: 0.8903
+SNR: 7.4367
+PESQ: 2.2591
+Saving checkpoint at "/data/xhj/model/v2/latest.model-14.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 15 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0008
+STOI: 0.8915
+SNR: 7.4227
+PESQ: 2.3090
+Saving checkpoint at "/data/xhj/model/v2/latest.model-15.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 16 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0008
+STOI: 0.8886
+SNR: 7.6458
+PESQ: 2.2884
+Saving checkpoint at "/data/xhj/model/v2/latest.model-16.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 17 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0008
+STOI: 0.8926
+SNR: 7.6319
+PESQ: 2.2707
+Saving checkpoint at "/data/xhj/model/v2/latest.model-17.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 18 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0007
+STOI: 0.8919
+SNR: 7.9786
+PESQ: 2.2983
+Saving checkpoint at "/data/xhj/model/v2/latest.model-18.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 19 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0007
+STOI: 0.8935
+SNR: 7.8575
+PESQ: 2.2908
+Saving checkpoint at "/data/xhj/model/v2/latest.model-19.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 20 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0007
+STOI: 0.8957
+SNR: 8.0036
+PESQ: 2.3307
+Saving checkpoint at "/data/xhj/model/v2/latest.model-20.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 21 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0007
+STOI: 0.8963
+SNR: 7.9592
+PESQ: 2.3504
+Saving checkpoint at "/data/xhj/model/v2/latest.model-21.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 22 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0007
+STOI: 0.8943
+SNR: 7.9003
+PESQ: 2.3394
+Saving checkpoint at "/data/xhj/model/v2/latest.model-22.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 23 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0007
+STOI: 0.8957
+SNR: 7.8966
+PESQ: 2.3533
+Saving checkpoint at "/data/xhj/model/v2/latest.model-23.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 24 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0007
+STOI: 0.8958
+SNR: 8.1380
+PESQ: 2.3722
+Saving checkpoint at "/data/xhj/model/v2/latest.model-24.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 25 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0007
+STOI: 0.8956
+SNR: 8.2402
+PESQ: 2.3676
+Saving checkpoint at "/data/xhj/model/v2/latest.model-25.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 26 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0007
+STOI: 0.8964
+SNR: 8.1556
+PESQ: 2.3524
+Saving checkpoint at "/data/xhj/model/v2/latest.model-26.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 27 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0007
+STOI: 0.8970
+SNR: 8.3790
+PESQ: 2.3663
+Saving checkpoint at "/data/xhj/model/v2/latest.model-27.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 28 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.8970
+SNR: 8.4652
+PESQ: 2.4317
+Saving checkpoint at "/data/xhj/model/v2/latest.model-28.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 29 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.8978
+SNR: 8.5260
+PESQ: 2.3595
+Saving checkpoint at "/data/xhj/model/v2/latest.model-29.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 30 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.8979
+SNR: 8.5581
+PESQ: 2.3964
+Saving checkpoint at "/data/xhj/model/v2/latest.model-30.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 31 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.8977
+SNR: 8.6778
+PESQ: 2.3690
+Saving checkpoint at "/data/xhj/model/v2/latest.model-31.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 32 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.8982
+SNR: 8.7141
+PESQ: 2.3902
+Saving checkpoint at "/data/xhj/model/v2/latest.model-32.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 33 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.8975
+SNR: 8.6933
+PESQ: 2.3958
+Saving checkpoint at "/data/xhj/model/v2/latest.model-33.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 34 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.8988
+SNR: 8.7636
+PESQ: 2.3889
+Saving checkpoint at "/data/xhj/model/v2/latest.model-34.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 35 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.8975
+SNR: 8.8181
+PESQ: 2.4190
+Saving checkpoint at "/data/xhj/model/v2/latest.model-35.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 36 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.8996
+SNR: 8.9724
+PESQ: 2.4220
+Saving checkpoint at "/data/xhj/model/v2/latest.model-36.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 37 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.8979
+SNR: 9.0207
+PESQ: 2.3744
+Saving checkpoint at "/data/xhj/model/v2/latest.model-37.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 38 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.8985
+SNR: 9.0333
+PESQ: 2.4034
+Saving checkpoint at "/data/xhj/model/v2/latest.model-38.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 39 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.8984
+SNR: 8.9617
+PESQ: 2.4356
+Saving checkpoint at "/data/xhj/model/v2/latest.model-39.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 40 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.9004
+SNR: 9.0646
+PESQ: 2.4348
+Saving checkpoint at "/data/xhj/model/v2/latest.model-40.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 41 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.9008
+SNR: 8.9428
+PESQ: 2.4239
+Saving checkpoint at "/data/xhj/model/v2/latest.model-41.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 42 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.9003
+SNR: 9.1480
+PESQ: 2.4096
+Saving checkpoint at "/data/xhj/model/v2/latest.model-42.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 43 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.9004
+SNR: 9.1666
+PESQ: 2.4386
+Saving checkpoint at "/data/xhj/model/v2/latest.model-43.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 44 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0006
+STOI: 0.8998
+SNR: 9.0939
+PESQ: 2.4690
+Saving checkpoint at "/data/xhj/model/v2/latest.model-44.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 45 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9008
+SNR: 9.2914
+PESQ: 2.4265
+Saving checkpoint at "/data/xhj/model/v2/latest.model-45.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 46 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9027
+SNR: 9.3653
+PESQ: 2.4499
+Saving checkpoint at "/data/xhj/model/v2/latest.model-46.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 47 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9017
+SNR: 9.3719
+PESQ: 2.4024
+Saving checkpoint at "/data/xhj/model/v2/latest.model-47.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 48 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9007
+SNR: 9.4304
+PESQ: 2.4292
+Saving checkpoint at "/data/xhj/model/v2/latest.model-48.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 49 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9017
+SNR: 9.5566
+PESQ: 2.4399
+Saving checkpoint at "/data/xhj/model/v2/latest.model-49.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 50 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9013
+SNR: 9.5619
+PESQ: 2.4708
+Saving checkpoint at "/data/xhj/model/v2/latest.model-50.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 51 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9020
+SNR: 9.7375
+PESQ: 2.4388
+Saving checkpoint at "/data/xhj/model/v2/latest.model-51.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 52 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9023
+SNR: 9.6200
+PESQ: 2.4863
+Saving checkpoint at "/data/xhj/model/v2/latest.model-52.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 53 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9020
+SNR: 9.7074
+PESQ: 2.4556
+Saving checkpoint at "/data/xhj/model/v2/latest.model-53.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 54 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9023
+SNR: 9.8064
+PESQ: 2.4472
+Saving checkpoint at "/data/xhj/model/v2/latest.model-54.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 55 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9027
+SNR: 9.7720
+PESQ: 2.4589
+Saving checkpoint at "/data/xhj/model/v2/latest.model-55.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 56 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9011
+SNR: 9.8307
+PESQ: 2.4562
+Saving checkpoint at "/data/xhj/model/v2/latest.model-56.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 57 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9028
+SNR: 9.8336
+PESQ: 2.4403
+Saving checkpoint at "/data/xhj/model/v2/latest.model-57.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 58 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9026
+SNR: 9.7570
+PESQ: 2.4301
+Saving checkpoint at "/data/xhj/model/v2/latest.model-58.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 59 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9030
+SNR: 9.8293
+PESQ: 2.4345
+Saving checkpoint at "/data/xhj/model/v2/latest.model-59.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 60 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9022
+SNR: 9.9754
+PESQ: 2.4506
+Saving checkpoint at "/data/xhj/model/v2/latest.model-60.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 61 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9031
+SNR: 9.9580
+PESQ: 2.4643
+Saving checkpoint at "/data/xhj/model/v2/latest.model-61.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 62 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0005
+STOI: 0.9037
+SNR: 10.0563
+PESQ: 2.4616
+Saving checkpoint at "/data/xhj/model/v2/latest.model-62.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 63 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9024
+SNR: 10.1694
+PESQ: 2.4442
+Saving checkpoint at "/data/xhj/model/v2/latest.model-63.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 64 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9019
+SNR: 10.2279
+PESQ: 2.4857
+Saving checkpoint at "/data/xhj/model/v2/latest.model-64.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 65 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9030
+SNR: 10.2518
+PESQ: 2.4449
+Saving checkpoint at "/data/xhj/model/v2/latest.model-65.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 66 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9046
+SNR: 10.2226
+PESQ: 2.4520
+Saving checkpoint at "/data/xhj/model/v2/latest.model-66.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 67 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9052
+SNR: 10.2721
+PESQ: 2.4727
+Saving checkpoint at "/data/xhj/model/v2/latest.model-67.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 68 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9038
+SNR: 10.3436
+PESQ: 2.4468
+Saving checkpoint at "/data/xhj/model/v2/latest.model-68.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 69 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9024
+SNR: 10.5073
+PESQ: 2.4595
+Saving checkpoint at "/data/xhj/model/v2/latest.model-69.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 70 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9054
+SNR: 10.5010
+PESQ: 2.4969
+Saving checkpoint at "/data/xhj/model/v2/latest.model-70.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 71 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9051
+SNR: 10.5547
+PESQ: 2.4964
+Saving checkpoint at "/data/xhj/model/v2/latest.model-71.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 72 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9040
+SNR: 10.6577
+PESQ: 2.4754
+Saving checkpoint at "/data/xhj/model/v2/latest.model-72.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 73 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9044
+SNR: 10.6246
+PESQ: 2.4590
+Saving checkpoint at "/data/xhj/model/v2/latest.model-73.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 74 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9034
+SNR: 10.6579
+PESQ: 2.4827
+Saving checkpoint at "/data/xhj/model/v2/latest.model-74.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 75 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9050
+SNR: 10.6972
+PESQ: 2.5056
+Saving checkpoint at "/data/xhj/model/v2/latest.model-75.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 76 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9041
+SNR: 10.7284
+PESQ: 2.4694
+Saving checkpoint at "/data/xhj/model/v2/latest.model-76.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 77 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9024
+SNR: 10.7399
+PESQ: 2.4864
+Saving checkpoint at "/data/xhj/model/v2/latest.model-77.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 78 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9032
+SNR: 10.6929
+PESQ: 2.4692
+Saving checkpoint at "/data/xhj/model/v2/latest.model-78.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 79 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9029
+SNR: 10.6807
+PESQ: 2.4788
+Saving checkpoint at "/data/xhj/model/v2/latest.model-79.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 80 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9050
+SNR: 10.8453
+PESQ: 2.4502
+Saving checkpoint at "/data/xhj/model/v2/latest.model-80.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 81 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9055
+SNR: 10.9243
+PESQ: 2.4636
+Saving checkpoint at "/data/xhj/model/v2/latest.model-81.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 82 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9046
+SNR: 10.8637
+PESQ: 2.4621
+Saving checkpoint at "/data/xhj/model/v2/latest.model-82.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 83 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9034
+SNR: 10.9707
+PESQ: 2.4679
+Saving checkpoint at "/data/xhj/model/v2/latest.model-83.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 84 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9043
+SNR: 10.9170
+PESQ: 2.4888
+Saving checkpoint at "/data/xhj/model/v2/latest.model-84.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 85 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9048
+SNR: 11.0257
+PESQ: 2.4804
+Saving checkpoint at "/data/xhj/model/v2/latest.model-85.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 86 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9034
+SNR: 11.1173
+PESQ: 2.4726
+Saving checkpoint at "/data/xhj/model/v2/latest.model-86.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 87 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9057
+SNR: 11.2200
+PESQ: 2.5088
+Saving checkpoint at "/data/xhj/model/v2/latest.model-87.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 88 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9048
+SNR: 11.1959
+PESQ: 2.4783
+Saving checkpoint at "/data/xhj/model/v2/latest.model-88.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 89 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9045
+SNR: 11.2497
+PESQ: 2.4186
+Saving checkpoint at "/data/xhj/model/v2/latest.model-89.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 90 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0003
+STOI: 0.9059
+SNR: 11.3263
+PESQ: 2.4879
+Saving checkpoint at "/data/xhj/model/v2/latest.model-90.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 91 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0003
+STOI: 0.9041
+SNR: 11.4018
+PESQ: 2.4949
+Saving checkpoint at "/data/xhj/model/v2/latest.model-91.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 92 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0003
+STOI: 0.9045
+SNR: 11.4534
+PESQ: 2.4839
+Saving checkpoint at "/data/xhj/model/v2/latest.model-92.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 93 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0004
+STOI: 0.9043
+SNR: 11.2950
+PESQ: 2.4592
+Saving checkpoint at "/data/xhj/model/v2/latest.model-93.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 94 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0003
+STOI: 0.9050
+SNR: 11.4216
+PESQ: 2.5160
+Saving checkpoint at "/data/xhj/model/v2/latest.model-94.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 95 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0003
+STOI: 0.9052
+SNR: 11.4789
+PESQ: 2.5047
+Saving checkpoint at "/data/xhj/model/v2/latest.model-95.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 96 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0003
+STOI: 0.9054
+SNR: 11.5489
+PESQ: 2.4919
+Saving checkpoint at "/data/xhj/model/v2/latest.model-96.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 97 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0003
+STOI: 0.9045
+SNR: 11.4142
+PESQ: 2.4754
+Saving checkpoint at "/data/xhj/model/v2/latest.model-97.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 98 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0003
+STOI: 0.9051
+SNR: 11.4701
+PESQ: 2.4942
+Saving checkpoint at "/data/xhj/model/v2/latest.model-98.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 99 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0003
+STOI: 0.9077
+SNR: 11.5161
+PESQ: 2.4808
+Saving checkpoint at "/data/xhj/model/v2/latest.model-99.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 100 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0003
+STOI: 0.9057
+SNR: 11.6001
+PESQ: 2.4853
+Saving checkpoint at "/data/xhj/model/v2/latest.model-100.model"
+Saving the best model at "/data/xhj/model/v2/best.model"
+
+

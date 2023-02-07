@@ -1,0 +1,958 @@
+Number of learnable parameters: 924771
+Training from scratch.
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 1 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0003
+STOI: 0.8772
+SNR: 12.0720
+PESQ: 1.5671
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-1.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 2 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.8926
+SNR: 13.4211
+PESQ: 1.8727
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-2.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 3 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9005
+SNR: 13.9073
+PESQ: 1.9605
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-3.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 4 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.8971
+SNR: 14.0146
+PESQ: 1.9540
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-4.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 5 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9060
+SNR: 14.5923
+PESQ: 2.0743
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-5.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 6 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9059
+SNR: 14.2649
+PESQ: 2.0985
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-6.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 7 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9097
+SNR: 14.6330
+PESQ: 2.1573
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-7.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 8 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9088
+SNR: 14.5179
+PESQ: 2.2110
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-8.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 9 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9094
+SNR: 15.0185
+PESQ: 2.2523
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-9.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 10 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9116
+SNR: 14.9337
+PESQ: 2.2662
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-10.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 11 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9119
+SNR: 14.7501
+PESQ: 2.2491
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-11.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 12 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9145
+SNR: 15.4026
+PESQ: 2.2715
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-12.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 13 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9145
+SNR: 15.3025
+PESQ: 2.3248
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-13.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 14 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9118
+SNR: 14.7901
+PESQ: 2.1962
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-14.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 15 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9149
+SNR: 15.5180
+PESQ: 2.3326
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-15.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 16 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9157
+SNR: 15.3550
+PESQ: 2.3292
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-16.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 17 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9163
+SNR: 15.1257
+PESQ: 2.3191
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-17.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 18 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9165
+SNR: 15.2892
+PESQ: 2.3945
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-18.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 19 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9168
+SNR: 15.2428
+PESQ: 2.3911
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-19.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 20 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9178
+SNR: 15.2331
+PESQ: 2.4308
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-20.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 21 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9188
+SNR: 15.1319
+PESQ: 2.4354
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-21.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 22 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9181
+SNR: 15.1328
+PESQ: 2.3891
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-22.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 23 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9203
+SNR: 15.0757
+PESQ: 2.3900
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-23.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 24 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0002
+STOI: 0.9174
+SNR: 15.4790
+PESQ: 2.3786
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-24.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 25 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9199
+SNR: 15.5804
+PESQ: 2.4511
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-25.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 26 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9194
+SNR: 15.6261
+PESQ: 2.3794
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-26.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 27 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9214
+SNR: 15.5757
+PESQ: 2.4709
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-27.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 28 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9217
+SNR: 15.4045
+PESQ: 2.4239
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-28.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 29 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9217
+SNR: 15.7877
+PESQ: 2.4531
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-29.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 30 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9205
+SNR: 15.9037
+PESQ: 2.4251
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-30.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 31 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9213
+SNR: 15.6168
+PESQ: 2.4659
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-31.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 32 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9206
+SNR: 15.6643
+PESQ: 2.4643
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-32.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 33 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9213
+SNR: 15.4968
+PESQ: 2.4683
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-33.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 34 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9212
+SNR: 15.8412
+PESQ: 2.5221
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-34.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 35 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9213
+SNR: 15.3669
+PESQ: 2.4701
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-35.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 36 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9219
+SNR: 15.9116
+PESQ: 2.4716
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-36.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 37 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9230
+SNR: 15.9353
+PESQ: 2.4537
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-37.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 38 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9236
+SNR: 15.8708
+PESQ: 2.5102
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-38.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 39 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9238
+SNR: 15.4624
+PESQ: 2.4949
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-39.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 40 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9220
+SNR: 15.6371
+PESQ: 2.4941
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-40.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 41 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9217
+SNR: 15.4865
+PESQ: 2.5012
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-41.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 42 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9239
+SNR: 15.8304
+PESQ: 2.5073
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-42.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 43 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9224
+SNR: 15.7166
+PESQ: 2.4982
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-43.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 44 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9234
+SNR: 15.5685
+PESQ: 2.4842
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-44.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 45 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9237
+SNR: 15.9862
+PESQ: 2.5174
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-45.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 46 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9227
+SNR: 15.8169
+PESQ: 2.5279
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-46.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 47 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9260
+SNR: 15.8264
+PESQ: 2.5292
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-47.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 48 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9237
+SNR: 15.8286
+PESQ: 2.5322
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-48.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 49 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9226
+SNR: 15.7210
+PESQ: 2.4784
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-49.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 50 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9250
+SNR: 15.8612
+PESQ: 2.5490
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-50.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 51 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9240
+SNR: 15.9153
+PESQ: 2.5404
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-51.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 52 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9246
+SNR: 15.9331
+PESQ: 2.5310
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-52.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 53 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9245
+SNR: 15.9645
+PESQ: 2.5489
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-53.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 54 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9251
+SNR: 15.6436
+PESQ: 2.5297
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-54.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 55 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9231
+SNR: 16.0426
+PESQ: 2.4131
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-55.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 56 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9257
+SNR: 15.8500
+PESQ: 2.5850
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-56.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 57 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9257
+SNR: 16.0208
+PESQ: 2.5408
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-57.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 58 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9213
+SNR: 15.5106
+PESQ: 2.4553
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-58.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 59 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9244
+SNR: 15.7392
+PESQ: 2.5531
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-59.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 60 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9256
+SNR: 16.0896
+PESQ: 2.5488
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-60.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 61 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9264
+SNR: 16.2074
+PESQ: 2.5112
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-61.model"
+Saving the best model at "/media/npu/Data/xhj/model/v7_justwavelet/best.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 62 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9271
+SNR: 15.9945
+PESQ: 2.5602
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-62.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 63 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9244
+SNR: 16.1679
+PESQ: 2.5711
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-63.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 64 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9240
+SNR: 15.7486
+PESQ: 2.5628
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-64.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 65 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9256
+SNR: 15.7431
+PESQ: 2.5532
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-65.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 66 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9241
+SNR: 15.8040
+PESQ: 2.4679
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-66.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 67 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9243
+SNR: 15.6183
+PESQ: 2.5570
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-67.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 68 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9264
+SNR: 16.0625
+PESQ: 2.5287
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-68.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 69 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9257
+SNR: 15.6165
+PESQ: 2.5072
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-69.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 70 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9244
+SNR: 16.1933
+PESQ: 2.5451
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-70.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 71 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9267
+SNR: 16.0091
+PESQ: 2.5180
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-71.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 72 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9265
+SNR: 16.0708
+PESQ: 2.5104
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-72.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 73 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9246
+SNR: 15.9774
+PESQ: 2.5532
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-73.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 74 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9265
+SNR: 15.9993
+PESQ: 2.5206
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-74.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 75 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9226
+SNR: 15.8429
+PESQ: 2.4818
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-75.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 76 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9245
+SNR: 15.9001
+PESQ: 2.5428
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-76.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 77 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9258
+SNR: 16.0877
+PESQ: 2.5505
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-77.model"
+
+
+********Starting metrics evaluation on val dataset**********
+##################################################
+
+After 78 epoch the performance on validation score is a s follows:
+
+Avg_loss: 0.0001
+STOI: 0.9270
+SNR: 15.9608
+PESQ: 2.5581
+Saving checkpoint at "/media/npu/Data/xhj/model/v7_justwavelet/latest.model-78.model"
+
+

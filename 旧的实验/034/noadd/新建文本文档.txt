@@ -1,0 +1,7 @@
+去掉残差		
+PESQ: 2.89	
+STOI: 93		
+CSIG: 4.24	
+CBAK: 3.18	
+COVL: 3.58	
+PARA: 1.45

@@ -1,0 +1,46 @@
+Loading checkpoint from "/data/xhj/model/v4_nofeedback/best.model"
+
+44
+0.00012978543772856094
+924771
+********Starting metrics evaluation on test dataset**********
+/home/xhj/src/eval_composite.py:360: RuntimeWarning: invalid value encountered in log
+  log_ = np.log(numerator / denominator)
+Numerator: [[0.0026888]]
+Denominator: [[-2.3382046e-05]]
+Numerator: [[0.00021822]]
+Denominator: [[-3.4215645e-05]]
+Numerator: [[0.00368839]]
+Denominator: [[-0.00010177]]
+Numerator: [[0.00142644]]
+Denominator: [[-0.00017934]]
+Numerator: [[0.00124302]]
+Denominator: [[-0.00055303]]
+Numerator: [[0.00576705]]
+Denominator: [[-0.00165695]]
+Numerator: [[0.00690501]]
+Denominator: [[-4.259846e-05]]
+Numerator: [[0.00024458]]
+Denominator: [[-9.481683e-05]]
+Numerator: [[0.00148379]]
+Denominator: [[-0.0021542]]
+Numerator: [[0.00266072]]
+Denominator: [[-0.00036474]]
+Numerator: [[0.00205223]]
+Denominator: [[-0.00194905]]
+Numerator: [[0.0044339]]
+Denominator: [[-0.00060675]]
+Numerator: [[0.00330223]]
+Denominator: [[-0.00011474]]
+Numerator: [[0.00447054]]
+Denominator: [[-0.00223267]]
+Numerator: [[0.00600066]]
+Denominator: [[-0.00010729]]
+Numerator: [[0.01082899]]
+Denominator: [[-0.00211089]]
+STOI: 0.9457
+SSNR: 9.5301
+PESQ: 3.0150
+CSIG: 4.3113
+CBAK: 3.5468
+COVL: 3.6838
